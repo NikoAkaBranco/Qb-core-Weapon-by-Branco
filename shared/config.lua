@@ -15,7 +15,7 @@ Config.Weapons = {
     [`WEAPON_CARBINERIFLE`] = {model = `weapon_carbinerifle`, modifier = 0.8, disableCritical = false},
     --- other
     
-    --- knife, bat and  
+    --- knife, bat and other
     [`WEAPON_UNARMED`] = {model = `WEAPON_UNARMED`, modifier = 0.1, disableCritical = false},
     [`WEAPON_NIGHTSTICK`] = {model = `WEAPON_NIGHTSTICK`, modifier = 0.35, disableCritical = false},
     [`WEAPON_BAT`] = {model = `WEAPON_BAT`, modifier = 0.35, disableCritical = false},
